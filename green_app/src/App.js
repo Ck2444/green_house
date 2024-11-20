@@ -1,6 +1,6 @@
 import './App.css';
-import Floor from './components /Floor/Floor';
-import Header from './components /Header/Header';
+import Floor from './components/Floor/Floor';
+import Header from './components/Header/Header';
 
 function App() {
   return (
